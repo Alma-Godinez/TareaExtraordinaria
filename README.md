@@ -41,3 +41,4 @@
 
 ### _Me gustó también porque no tiene ningún cargo extra, cualquier persona puede utilizar este documento y si ayuda a nuestra comunidad o personas que estén empezando como yo podrán verlo también. Tienes bastantes permisos muy útiles como modificación._
 
+<https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>
